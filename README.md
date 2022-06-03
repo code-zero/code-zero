@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alinafe Nthondowa
-- 👀 I’m interested in Web App Developer
+- 👀 I’m interested in Web App Development
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Web Projects
 - 📫 Reach me on +265992564193 | a.nthondowa@gmail.com
